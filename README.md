@@ -1,4 +1,4 @@
 # vigilant-rotary-phone
 ## repo:)
 # this is a read me 
-so far so good, lets goooooooo team !
+so far so good, lets gooooooooo team !
