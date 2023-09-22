@@ -6,7 +6,6 @@
     <title>LANDING</title>
     <style>
         body {
-            background-color: red;
             margin: 0;
             font-family: Arial, sans-serif;
         }
@@ -51,6 +50,23 @@
             margin: auto;
         }
 
+        .image-section {
+            background-image: url('https://i.postimg.cc/7PzxDCQ8/raspberries-1925178-1920.jpg'); /* Replace 'your-image.jpg' with your image URL */
+            background-size: cover;
+            background-position: center;
+            text-align: center;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .overlay {
+            background-color: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
+            padding: 20px;
+            color: #333;
+        }
+
         /* Media query for screens smaller than 768px */
         @media (max-width: 768px) {
             .navbar {
@@ -63,8 +79,12 @@
                 margin: 10px 0;
             }
 
-            .navbar div:not(.logo) {
-                text-align: center;
+            .image-section {
+                padding: 50px 0;
+            }
+
+            .overlay {
+                padding: 10px;
             }
         }
     </style>
@@ -84,6 +104,14 @@
             <a href="#" class="link">Impact</a>
             <a href="#" class="link">Login</a>
             <a href="#">&#x1F50D;</a>
+        </div>
+    </div>
+
+    <div class="image-section">
+        <div class="overlay">
+            <h1>Buy Delicious Yogurt</h1>
+            <p>Experience the creamy goodness of our yogurt. Order now!</p>
+            <a href="#" class="cta-button">Order Now</a>
         </div>
     </div>
 </body>
