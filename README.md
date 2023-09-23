@@ -18,7 +18,7 @@ Working with Mark Down
 
 ## Project Overview
 
-Provide a brief introduction to your project. Explain what it does, its purpose, and any important context or background information.
+The Project will be a Static Landing Page.
 
 ## Getting Started
 
