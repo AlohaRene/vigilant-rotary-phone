@@ -22,7 +22,7 @@ The Project will be a Static Landing Page.
 
 ## Getting Started
 
-Explain how to get started with your project. Include instructions for setting up the development environment, installing dependencies, and running the project.
+Explain how to get started with your project. Include instructions for setting up the development environment, installing dependencies, and running the project. So you can just use the index file for now, it is a static page so far
 
 ### Prerequisites
 
