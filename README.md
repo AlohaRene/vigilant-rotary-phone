@@ -28,6 +28,8 @@ Explain how to get started with your project. Include instructions for setting u
 
 List any prerequisites or system requirements that users need to have before they can use your project. Include software, libraries, or hardware requirements.
 
+A web browser and internet connection
+
 ### Installation
 
 Provide step-by-step instructions on how to install your project. This should include any commands or configurations needed.
